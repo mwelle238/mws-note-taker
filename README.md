@@ -12,6 +12,7 @@ This application allows you to take notes and save them to view later.  When you
 4. [License](#License)
 5. [Questions](#Questions)
 6. [Demo](#Demo)
+7. [Screenshots](#Screenshots)
 
 ## Installation
 
@@ -47,3 +48,11 @@ Github: [github.com/mwelle238](https://www.github.com/mwelle238)
 
 Deployed Link: [Deployed Link](https://aqueous-woodland-61074.herokuapp.com/)
 
+## Screenshots
+
+![Open Page](https://github.com/mwelle238/mws-note-taker/blob/main/screenshots/image1.JPG)
+![Notes load](https://github.com/mwelle238/mws-note-taker/blob/main/screenshots/Image2.JPG)
+![New Note](https://github.com/mwelle238/mws-note-taker/blob/main/screenshots/Image3.JPG)
+![Save Note](https://github.com/mwelle238/mws-note-taker/blob/main/screenshots/Image4.JPG)
+![Deleted note](https://github.com/mwelle238/mws-note-taker/blob/main/screenshots/Image5.JPG)
+![View note](https://github.com/mwelle238/mws-note-taker/blob/main/screenshots/Image6.JPG)
